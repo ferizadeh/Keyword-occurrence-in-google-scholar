@@ -32,3 +32,4 @@ patents and citations.
 | 2023 |    48400|
 | 2024 |    23400|
 
+![Explainbale AI chart](https://github.com/ferizadeh/Keyword-occurrence-in-google-scholar/blob/main/Chart.png "Explainbale AI")
