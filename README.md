@@ -32,4 +32,5 @@ patents and citations.
 | 2023 |    48400|
 | 2024 |    23400|
 
-<img src="https://github.com/ferizadeh/Keyword-occurrence-in-google-scholar/blob/main/Chart.png" width="50" height="50" alt="Explainable AI chart">
+<img src="https://github.com/ferizadeh/Keyword-occurrence-in-google-scholar/blob/main/Chart.png" style="width: 50%;" alt="Explainable AI chart">
+
